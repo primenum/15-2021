@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "firstName": "Jonh",
+        "lastName": "Core",
+        "salary": 8454.5
+    },
+    {
+        "id": 2,
+        "firstName": "Paul",
+        "lastName": "Nweman",
+        "salary": 12500
+    },
+    {
+        "id": 3,
+        "firstName": "Sean",
+        "lastName": "Connery",
+        "salary": 6540.3
+    },
+    {
+        "id": 3,
+        "firstName": "Rafael",
+        "lastName": "Nadal",
+        "salary": 8235.0
+    }
+]
